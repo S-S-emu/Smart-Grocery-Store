@@ -1,4 +1,4 @@
-# Flipkart-MERN
+# Smart Grocery Store
 Full-Stack Smart Grocery Store with Admin Dashboard & Paytm Payment Gateway.
 
 
